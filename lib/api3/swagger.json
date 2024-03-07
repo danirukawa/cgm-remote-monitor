@@ -1540,7 +1540,7 @@
                 "example": "\"g\", \"ml\", \"oz\""
               },
               "carbs": {
-                "type": "number",
+                "type": "string", // changed form number
                 "description": "Amount of carbs in the portion in grams"
               },
               "fat": {
